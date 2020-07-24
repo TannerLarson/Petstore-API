@@ -1,0 +1,18 @@
+{
+    "task": "update",
+    "username": "hotjonnyjingles",
+    "address": "762 Evergreen Terrace",
+    "pets": {
+        "add":[
+            {
+                "name": "Bunny Munchkins",
+                "species": "Tyrannosaurus Rex"
+            }
+        ],
+        "remove": [
+            {
+                "name": "Chunky Cheesy"
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "task": "create",
+    "username": "hotjonnyjingles",
+    "name": "Johnny Hotcakes",
+    "address": "123 Fake Street",
+    "pets": [
+        {
+            "name": "Chunky Cheesy",
+            "species": "dog"
+        },
+        {
+            "name": "Mr. Snookums",
+            "species": "cat"
+        }
+    ]
+}
